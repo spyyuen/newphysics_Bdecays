@@ -154,7 +154,6 @@ class decayRate(object):
 		#Plot starting from min(q^2) approx 3.16.  Below this, plot 0
 		qsq_min = m_tau**2 #[GeV^2]
 		y_f = np.array([])
-		x_f_newphysics = np.linspace(0,11,111) # 110 linearly spaced numbers
 		y_f_newPhysics = np.array([])
 		self.limit_lo	= m_tau**2
 		self.DeltaS 	= 1.21 
