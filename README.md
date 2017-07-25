@@ -9,7 +9,7 @@ m_l=m_tau with new physics<br />
 python semileptonicdecay.py -p -prd <br />
 
 Help with more run options:<br />
-python semileptonicdecay.py -p <br />
+python semileptonicdecay.py -h <br />
 
 TODO:<br />
 Get global constants via scraping<br />
