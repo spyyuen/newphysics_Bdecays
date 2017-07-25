@@ -2,9 +2,14 @@
 Study semileptonic B->Dlnu decays
 
 To run:
-Plot differential decay rate of B->Dlnu decays for all cases:
-m_l=0, m_l=m_tau, and m_l=m_tau with new physics
-python semileptonicdecay.py -p
+Plot differential decay rate of B->Dlnu decays and R(D) for all cases:<br />
+m_l=0<br />
+m_l=m_tau<br />
+m_l=m_tau with new physics<br />
+python semileptonicdecay.py -p <br />
 
-TODO:
-Get global constants via scraping
+Help with more run options:<br />
+python semileptonicdecay.py -p <br />
+
+TODO:<br />
+Get global constants via scraping<br />
